@@ -1,0 +1,12 @@
+.tabs-container {
+  display: flex;
+}
+
+.tab-btn {
+  background-color: transparent;
+  color: #ffffff;
+}
+
+.active-tab {
+  text-decoration: underline;
+}
